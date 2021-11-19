@@ -1,24 +1,24 @@
-#Owen P Wheeler
+# Owen P Wheeler
 
-#Contact Information
+# Contact Information
 **Address**: ***
 **Cell**: ***
 **Email**: ***
 
-#Summary
+# Summary
 
 I am currently a senior studying Geographic Information Science with a background in Business Management.
 I am interested in applying data management, spatial analysis, and cartography skills in the field of marine or environmental science.
 
-#Education
+# Education
 
-##University of Connecticut- _Storrs, CT_ (August 2019-December 2021)
+## University of Connecticut- _Storrs, CT_ (August 2019-December 2021)
 *Undergraduate*- Working towards B.A. in Geographic Information Science- *** GPA
 
-##Rhode Island College- _Providence, RI_ (August 2017-May 2019)
+## Rhode Island College- _Providence, RI_ (August 2017-May 2019)
 Business Management- *** GPA
 
-#Technology/Skills
+# Technology/Skills
 
 **Microsoft**: Word, Excel, Outlook, PowerPoint, Access, Power BI
 
@@ -27,7 +27,7 @@ Business Management- *** GPA
 
 **Other Skills/Accomplishments**: Class A/B UST Fuel Dock Operating License, Boater's License, Google Earth Pro, Adobe Acrobat Pro, Minitab analysis, Quickbooks Accounting, Dockwa, Snag-A-slip
 
-#Professional Experience
+# Professional Experience
 
 **Assistant Manager: Thamesport Marina**- _New London, CT_ (May 2021-August 2021)
 	-Day-to-day management of the marina property, vessels, fuel dock, and overall business operation
@@ -49,7 +49,7 @@ Business Management- *** GPA
 	-Customer data collection, storage, inspection, and mangement
 	-The marina was awarded a Boater's Choice Award by MARINAS.COM for the first time
 
-#Volunteer Experience
+# Volunteer Experience
 
 **Social Media Founder and Coordinator**: Mystic Downtown Marina- _Mystic, CT_ (January 2019-April 2020)
 **Volunteer Summer Camp Counselor**: Ledyard Parks & Rec- _Ledyard, CT_ (June 2014-aUGUST 2014)
